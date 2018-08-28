@@ -26,3 +26,6 @@ To run without minibatch discrimination (and plot the resulting distributions):
 To run with minibatch discrimination (and plot the resulting distributions):
 
     $ python gan.py --minibatch
+
+## Notes:
+my_cgan_tensorfolw.py is a conditional generative adversarial networks test about MNIST database.
